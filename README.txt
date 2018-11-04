@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/RevillWeb/pen/KwVoMv.
+
+ Simple example showing the use of the ngSubmit example. Take a look at the <a href="http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/">AngularJS tutorial</a> and also the <a href="http://www.revillweb.com/angularjs-by-example/1-introduction/">AngularJS by example</a> tutorial series.
